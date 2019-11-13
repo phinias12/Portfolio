@@ -174,3 +174,8 @@ a {
 a:hover, a:focus, a:active {
   color: #274782;
 }
+
+.project {
+  width: 60%;
+  padding: 20px;
+}
